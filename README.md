@@ -42,3 +42,13 @@
 ### 🛠️ Languages and Tools
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="40" height="
+  ​
+    
+    🛡️ Expertise
+​<div align="center">
+​<p><b><i>I specialize in:</i></b></p>
+​<kbd>Cyber Security</kbd>  
+<kbd>Termux Automation</kbd>  
+<kbd>Android Modding</kbd>  
+<kbd>Red Hacking</kbd>
+​</div>
